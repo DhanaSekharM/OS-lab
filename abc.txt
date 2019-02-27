@@ -1,0 +1,4 @@
+qwerty
+data from file
+data from dup_file
+ql
