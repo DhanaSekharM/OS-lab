@@ -86,7 +86,7 @@ void main()
 	{
 		if(!p[i].allocated)
 		{
-			printf("%d %d %d %s external_fragmentation %d \n", i, p[i].memory_requested, -1, "NO", p[i].external_fragmentation);
+			printf("%d %d %d %s external_fragmentation  %d \n", i, p[i].memory_requested, -1, "NO", p[i].external_fragmentation);
 		}
 		else
 		{

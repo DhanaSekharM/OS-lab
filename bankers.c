@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 #include<stdlib.h>
 
 void print(int x[][10],int n,int m){
